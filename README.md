@@ -1,3 +1,3 @@
 # Parallax-effect
 
-Mock webpage with parallax effect
+Mock webpage with parallax effect.
